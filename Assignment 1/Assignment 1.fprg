@@ -4,9 +4,9 @@
         <attribute name="name" value=""/>
         <attribute name="authors" value="akashpatel"/>
         <attribute name="about" value=""/>
-        <attribute name="saved" value="2020-01-14 09:33:08 PM"/>
+        <attribute name="saved" value="2020-01-15 03:53:28 PM"/>
         <attribute name="created" value="YWthc2hwYXRlbDtBa2FzaHMtTWFjQm9vay07MjAyMC0wMS0xNDswODo1Mzo1MCBQTTszNjkw"/>
-        <attribute name="edited" value="YWthc2hwYXRlbDtBa2FzaHMtTWFjQm9vay07MjAyMC0wMS0xNDswOTozMzowOCBQTTs0OzM4MDM="/>
+        <attribute name="edited" value="YWthc2hwYXRlbDtBa2FzaHMtTWFjQm9vay07MjAyMC0wMS0xNTswMzo1MzoyOCBQTTs3OzM4MDU="/>
     </attributes>
     <function name="Main" type="None" variable="">
         <parameters/>
@@ -15,17 +15,32 @@
     <function name="Sandwich" type="None" variable="">
         <parameters/>
         <body>
+            <output expression="&quot;Open bag of bread.&quot;" newline="True"/>
             <output expression="&quot;Take two slices of bread&quot;" newline="True"/>
-            <output expression="&quot;Get peanut butter&quot;" newline="True"/>
-            <output expression="&quot;Open peanut butter&quot;" newline="True"/>
+            <output expression="&quot;Get lettuce&quot;" newline="True"/>
+            <output expression="&quot;Get tomato&quot;" newline="True"/>
+            <output expression="&quot;Get Cheese slices&quot;" newline="True"/>
+            <output expression="&quot;Get Jar of Mayonnaise&quot;" newline="True"/>
             <output expression="&quot;Get a knife&quot;" newline="True"/>
-            <output expression="&quot;Put knife in peanut butter&quot;" newline="True"/>
-            <output expression="&quot;Spread peanut butter on one slice of bread&quot;" newline="True"/>
-            <output expression="&quot;Get jar of Jam&quot;" newline="True"/>
-            <output expression="&quot;Open Jam jar&quot;" newline="True"/>
-            <output expression="&quot;Put knife in jam&quot;" newline="True"/>
-            <output expression="&quot;Spread jam on other slice of bread&quot;" newline="True"/>
-            <output expression="&quot;Combine both slices&quot;" newline="True"/>
+            <output expression="&quot;Cut Lettuce into slices&quot;" newline="True"/>
+            <output expression="&quot;Put cut lettuce slices on bread&quot;" newline="True"/>
+            <output expression="&quot;Put away lettuce&quot;" newline="True"/>
+            <output expression="&quot;Wash knife&quot;" newline="True"/>
+            <output expression="&quot;Dry knife&quot;" newline="True"/>
+            <output expression="&quot;Reuse knife&quot;" newline="True"/>
+            <output expression="&quot;Cut Tomato into slices&quot;" newline="True"/>
+            <output expression="&quot;Put away tomato&quot;" newline="True"/>
+            <output expression="&quot;Wash Knife&quot;" newline="True"/>
+            <output expression="&quot;Dry knife&quot;" newline="True"/>
+            <output expression="&quot;Put away knife&quot;" newline="True"/>
+            <output expression="&quot;Place slices of lettuce on one slice of bread&quot;" newline="True"/>
+            <output expression="&quot;Place tomato ontop of slice of lettuce&quot;" newline="True"/>
+            <output expression="&quot;Place slice of Cheese on top of tomato&quot;" newline="True"/>
+            <output expression="&quot;Grab a knife&quot;" newline="True"/>
+            <output expression="&quot;Open jar of mayonnaise&quot;" newline="True"/>
+            <output expression="&quot;Spread mayonnaise on other slice of bread&quot;" newline="True"/>
+            <output expression="&quot;Put away jar of mayonnaise&quot;" newline="True"/>
+            <output expression="&quot;Combine slices of bread together&quot;" newline="True"/>
             <output expression="&quot;Enjoy!&quot;" newline="True"/>
         </body>
     </function>

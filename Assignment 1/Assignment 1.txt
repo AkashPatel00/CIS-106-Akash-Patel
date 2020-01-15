@@ -1,0 +1,17 @@
+Function Main
+End
+
+Function Sandwich
+    Output "Take two slices of bread"
+    Output "Get peanut butter"
+    Output "Open peanut butter"
+    Output "Get a knife"
+    Output "Put knife in peanut butter"
+    Output "Spread peanut butter on one slice of bread"
+    Output "Get jar of Jam"
+    Output "Open Jam jar"
+    Output "Put knife in jam"
+    Output "Spread jam on other slice of bread"
+    Output "Combine both slices"
+    Output "Enjoy!"
+End

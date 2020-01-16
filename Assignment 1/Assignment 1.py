@@ -7,7 +7,6 @@ def sandwich():
     print("Get Jar of Mayonnaise")
     print("Get a knife")
     print("Cut Lettuce into slices")
-    print("Put cut lettuce slices on bread")
     print("Put away lettuce")
     print("Wash knife")
     print("Dry knife")

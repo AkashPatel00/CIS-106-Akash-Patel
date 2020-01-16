@@ -10,7 +10,6 @@ Function Sandwich
     Output "Get Jar of Mayonnaise"
     Output "Get a knife"
     Output "Cut Lettuce into slices"
-    Output "Put cut lettuce slices on bread"
     Output "Put away lettuce"
     Output "Wash knife"
     Output "Dry knife"

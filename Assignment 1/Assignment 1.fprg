@@ -4,9 +4,9 @@
         <attribute name="name" value=""/>
         <attribute name="authors" value="akashpatel"/>
         <attribute name="about" value=""/>
-        <attribute name="saved" value="2020-01-15 03:53:28 PM"/>
+        <attribute name="saved" value="2020-01-15 06:20:09 PM"/>
         <attribute name="created" value="YWthc2hwYXRlbDtBa2FzaHMtTWFjQm9vay07MjAyMC0wMS0xNDswODo1Mzo1MCBQTTszNjkw"/>
-        <attribute name="edited" value="YWthc2hwYXRlbDtBa2FzaHMtTWFjQm9vay07MjAyMC0wMS0xNTswMzo1MzoyOCBQTTs3OzM4MDU="/>
+        <attribute name="edited" value="YWthc2hwYXRlbDtBa2FzaHMtTWFjQm9vay07MjAyMC0wMS0xNTswNjoyMDowOSBQTTs4OzM4MDI="/>
     </attributes>
     <function name="Main" type="None" variable="">
         <parameters/>
@@ -23,7 +23,6 @@
             <output expression="&quot;Get Jar of Mayonnaise&quot;" newline="True"/>
             <output expression="&quot;Get a knife&quot;" newline="True"/>
             <output expression="&quot;Cut Lettuce into slices&quot;" newline="True"/>
-            <output expression="&quot;Put cut lettuce slices on bread&quot;" newline="True"/>
             <output expression="&quot;Put away lettuce&quot;" newline="True"/>
             <output expression="&quot;Wash knife&quot;" newline="True"/>
             <output expression="&quot;Dry knife&quot;" newline="True"/>

@@ -1,0 +1,19 @@
+Function Main
+    Declare Integer Hours
+    Declare Integer Rate
+    Declare Integer Pay
+    Declare Integer Weekly
+    Declare Integer Monthly
+    Declare Integer Yearly
+    
+    Output "Enter hours worked in a week"
+    Input Hours
+    Output "What is your pay rate?"
+    Input Rate
+    Assign Pay = Hours * Rate
+    Assign Monthly = Hours * Rate * 3
+    Assign Yearly = Hours * Rate * 52
+    Output "Your Weekly pay is.."  &Pay
+    Output "Your Monthly pay is.." &Monthly
+    Output "Your Yearly pay is.." &Yearly
+End

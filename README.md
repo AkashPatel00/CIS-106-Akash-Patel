@@ -7,3 +7,7 @@ I am taking this course because I've always had a passion and an interest in cod
 ## Assignment 2
 
 Over the past couple weeks, I've learned a lot about coding which I had no clue about and it's been challenging to understand it all however I've learned a lot. I understood the process of source code managment however, I didn't really put the name to the term until this week. IDE's however was a completely new concept to me however, I quickly learned that IDE's are a programmers best friend. They can edit source code, debug and even compiles. This week I tried using Repl.it and I think that it was a very user-friendly IDE which still came with all the features. Overall if I do plan to pursue a career in programming this is a tool I can always use.
+
+## Assigment 3
+
+This week I learned a lot more important information about coding and I was able to finally use other functions of flowgorithm and I feel that I mastered them and understand the information a lot more. In the reading I learned new concepts which I haven't been familiar with before, and I still don't understand it all but I'm reviewing more and doing my own research in the background to get a better understanding of all the concepts. Overall I felt that this session was a big step from the others however, I think I did very good.

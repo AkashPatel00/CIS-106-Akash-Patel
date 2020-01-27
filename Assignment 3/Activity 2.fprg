@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="akashpatel"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2020-01-27 12:26:43 PM"/>
+        <attribute name="created" value="YWthc2hwYXRlbDtBa2FzaHMtTWFjQm9vay07MjAyMC0wMS0yNzsxMToyMzo1MCBBTTszNjcw"/>
+        <attribute name="edited" value="YWthc2hwYXRlbDtBa2FzaHMtTWFjQm9vay07MjAyMC0wMS0yNzsxMjoyNjo0MyBQTTszOzM4MDE="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="Age" type="Integer" array="False" size=""/>
+            <declare name="Years" type="Integer" array="False" size=""/>
+            <declare name="Months" type="Integer" array="False" size=""/>
+            <declare name="Days" type="Integer" array="False" size=""/>
+            <declare name="Hours" type="Integer" array="False" size=""/>
+            <declare name="Seconds" type="Integer" array="False" size=""/>
+            <output expression="&quot;How old are you?&quot;" newline="True"/>
+            <input variable="Age"/>
+            <assign variable="Years" expression="Age * 1"/>
+            <assign variable="Months" expression="Age * 12"/>
+            <assign variable="Days" expression="Age * 365"/>
+            <assign variable="Hours" expression="Age * 8760"/>
+            <assign variable="Seconds" expression="Age * 31536000"/>
+            <output expression="&quot;You are..&quot;&amp;Years&amp; &quot;years old&quot;" newline="True"/>
+            <output expression="&quot;You are&quot; &amp;Months&amp; &quot;months old&quot;" newline="True"/>
+            <output expression="&quot;You are&quot; &amp;Days&amp; &quot;days old&quot;" newline="True"/>
+            <output expression="&quot;You are&quot; &amp;Hours&amp; &quot;hours old&quot;" newline="True"/>
+            <output expression="&quot;You are&quot; &amp;Seconds&amp; &quot;seconds old&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

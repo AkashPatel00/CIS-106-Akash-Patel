@@ -1,0 +1,21 @@
+Function Main
+    Declare Integer Age
+    Declare Integer Years
+    Declare Integer Months
+    Declare Integer Days
+    Declare Integer Hours
+    Declare Integer Seconds
+    
+    Output "How old are you?"
+    Input Age
+    Assign Years = Age * 1
+    Assign Months = Age * 12
+    Assign Days = Age * 365
+    Assign Hours = Age * 8760
+    Assign Seconds = Age * 31536000
+    Output "You are.."&Years& "years old"
+    Output "You are" &Months& "months old"
+    Output "You are" &Days& "days old"
+    Output "You are" &Hours& "hours old"
+    Output "You are" &Seconds& "seconds old"
+End

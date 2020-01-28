@@ -4,9 +4,9 @@
         <attribute name="name" value=""/>
         <attribute name="authors" value="akashpatel"/>
         <attribute name="about" value=""/>
-        <attribute name="saved" value="2020-01-27 12:36:13 PM"/>
+        <attribute name="saved" value="2020-01-28 10:56:48 AM"/>
         <attribute name="created" value="YWthc2hwYXRlbDtBa2FzaHMtTWFjQm9vay07MjAyMC0wMS0yNzsxMDoxNjoyNyBBTTszNjc1"/>
-        <attribute name="edited" value="YWthc2hwYXRlbDtBa2FzaHMtTWFjQm9vay07MjAyMC0wMS0yNzsxMjozNjoxMyBQTTs3OzM4MDM="/>
+        <attribute name="edited" value="YWthc2hwYXRlbDtBa2FzaHMtTWFjQm9vay07MjAyMC0wMS0yODsxMDo1Njo0OCBBTTsxMDszODM5"/>
     </attributes>
     <function name="Main" type="None" variable="">
         <parameters/>
@@ -22,7 +22,7 @@
             <output expression="&quot;What is your pay rate?&quot;" newline="True"/>
             <input variable="Rate"/>
             <assign variable="Pay" expression="Hours * Rate"/>
-            <assign variable="Monthly" expression="Hours * Rate * 3"/>
+            <assign variable="Monthly" expression="Hours * Rate * 4"/>
             <assign variable="Yearly" expression="Hours * Rate * 52"/>
             <output expression="&quot;Your Weekly pay is..&quot;  &amp;Pay" newline="True"/>
             <output expression="&quot;Your Monthly pay is..&quot; &amp;Monthly" newline="True"/>

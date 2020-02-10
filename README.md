@@ -14,4 +14,4 @@ This week I learned a lot more important information about coding and I was able
 
 ## Assignement 4
 
-This week I felt was fairly easy and self explantaory it built off what we learned last week, however I felt that this week we had more freedom and since we had to use our IDEs and try not to rely on Flowgorithim I felt that we had more control. I enjoyed this week and felt this helped give me an idea of what concepts I knew and what I didn't.
+This week I felt was fairly easy and self explantory it built off what we learned last week, however I felt that this week we had more freedom and since we had to use our IDEs and try not to rely on Flowgorithim I felt that we had more control. I enjoyed this week and felt this helped give me an idea of what concepts I knew and what I didn't.

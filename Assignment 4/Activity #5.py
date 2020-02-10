@@ -1,6 +1,8 @@
-# This program's purpose is to determine how many square yards are in a specific surface
+# This program's purpose is to determine how many square yards are in a specific surface.
 
-Width = float(input("What is the width of the room?"))
-Length = float(input("What is the length of the room?"))
-Area= (Length * Width)
-print("The amount of floor covering the surface is.." + str(Area/9))
+width = float(input("What is the width of the room?"))
+length = float(input("What is the length of the room?"))
+
+area= (length * width)
+
+print("The amount of floor covering the surface is.." + str(area/9))

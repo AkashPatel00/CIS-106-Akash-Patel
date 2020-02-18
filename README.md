@@ -19,3 +19,7 @@ This week I felt was fairly easy and self explantory it built off what we learne
 ## Assignment 5
 
 This week I had personal issues which ate up a lot of my time and made it so I wasn't able to finish everything on time, however with that being said the use of functions in programming was definitely a confusing experience for me and it took a lot of outside resources for me to understand how to utilize them. 
+
+## Assignment 6 
+
+This week I felt that this coding of functions was a lot easier in comparison to the previous week because I felt more comfortable with the functions and how to use them. I was able to code completely without the use of Flowgorithm however I still had to look back and refer to certain parts of the code.

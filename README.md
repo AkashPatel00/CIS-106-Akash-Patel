@@ -15,3 +15,7 @@ This week I learned a lot more important information about coding and I was able
 ## Assignement 4
 
 This week I felt was fairly easy and self explantory it built off what we learned last week, however I felt that this week we had more freedom and since we had to use our IDEs and try not to rely on Flowgorithim I felt that we had more control. I enjoyed this week and felt this helped give me an idea of what concepts I knew and what I didn't.
+
+## Assignment 5
+
+This week I had personal issues which ate up a lot of my time and made it so I wasn't able to finish everything on time, however with that being said the use of functions in programming was definitely a confusing experience for me and it took a lot of outside resources for me to understand how to utilize them. 

@@ -23,3 +23,7 @@ This week I had personal issues which ate up a lot of my time and made it so I w
 ## Assignment 6 
 
 This week I felt that this coding of functions was a lot easier in comparison to the previous week because I felt more comfortable with the functions and how to use them. I was able to code completely without the use of Flowgorithm however I still had to look back and refer to certain parts of the code.
+
+## Assignment 7
+
+This week we focused on working on conditions, and if then statements. I found this to be diffcult for me at first and I still do, however as I continue to work on my code and revise it I began to understand it. I'm trying to make both of the programs this week without the use of Flowgorithm and I think it'll work out.

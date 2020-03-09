@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="akashpatel"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2020-03-09 09:35:55 AM"/>
+        <attribute name="created" value="YWthc2hwYXRlbDtBa2FzaHMtTWFjQm9vay07MjAyMC0wMy0wODswOTo0ODowMCBQTTszNjk1"/>
+        <attribute name="edited" value="YWthc2hwYXRlbDtBa2FzaHMtTWFjQm9vay07MjAyMC0wMy0wOTswOTozNTo1NSBBTTsyOzM3OTY="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="input1" type="Integer" array="False" size=""/>
+            <declare name="input2" type="Integer" array="False" size=""/>
+            <declare name="x" type="Integer" array="False" size=""/>
+            <assign variable="x" expression="1"/>
+            <output expression="&quot;Enter number to be multiplied&quot;" newline="True"/>
+            <input variable="input1"/>
+            <output expression="&quot;Enter number of times multiplied&quot;" newline="True"/>
+            <input variable="input2"/>
+            <while expression="x&lt;=input2">
+                <output expression="(input1 * x)" newline="True"/>
+                <assign variable="x" expression="x + 1"/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>

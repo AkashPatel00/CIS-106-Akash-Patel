@@ -30,4 +30,4 @@ This week we focused on working on conditions, and if then statements. I found t
 
 ## Assignment 8
 
-This week I had a hard time understanding whileloops but I eventually got it after looking through many different sources provided by our classmates and online youtube videos. I found that python, doesn't exactly have whileloops and you have to use another function to get the same effect. I had trouble understanding Flowgorithm and how the flowcharts worked however I eventually understood it.
+This week I had a hard time understanding whileloops but I eventually got it after looking through many different sources provided by our classmates and online youtube videos. I found that python, doesn't exactly have whileloops and you have to use another function to get the same effect. I had trouble understanding Flowgorithm and how the flowcharts worked however I eventually understood it. I'm currently behind on the course and I have to remind myself to pace myself in coding so I don't end up turning in things late.

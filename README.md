@@ -27,3 +27,7 @@ This week I felt that this coding of functions was a lot easier in comparison to
 ## Assignment 7
 
 This week we focused on working on conditions, and if then statements. I found this to be diffcult for me at first and I still do, however as I continue to work on my code and revise it I began to understand it. I'm trying to make both of the programs this week without the use of Flowgorithm and I think it'll work out.
+
+## Assignment 8
+
+This week I had a hard time understanding whileloops but I eventually got it after looking through many different sources provided by our classmates and online youtube videos. I found that python, doesn't exactly have whileloops and you have to use another function to get the same effect. I had trouble understanding Flowgorithm and how the flowcharts worked however I eventually understood it.
